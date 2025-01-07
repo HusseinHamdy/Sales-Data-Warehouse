@@ -28,3 +28,8 @@ Data Visualization:
 - SQL Server 
 - SSIS
 - PowerBI
+
+  # Star Schema
+  ![Dashboard](https://github.com/user-attachments/assets/6fe3591c-9727-4977-97a3-0c711e8f9e77)
+
+  
