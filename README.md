@@ -17,7 +17,7 @@ Data warehouse Design:
 ETL Processes: 
 
 - Implemented SSIS packages to extract, transform, and load data to data warehouse.
-- Incorporated Slowly Changing Dimensions (SCD) to track historical changes in dimension attributes.
+- Incorporated Slowly Changing Dimensions (SCD) for DimCustomer and DimProduct to track historical changes in dimension attributes.
 
 Data Visualization:
 
