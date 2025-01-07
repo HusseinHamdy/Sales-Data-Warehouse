@@ -5,3 +5,20 @@ The goal of this project is desig and implement a Sales Data Warehouse using SSI
 This centralized repository will allow for comprehensive reporting, trend analysis, and data-driven decision-making for sales teams, business analysts, and management.
 
 # Key Features
+
+Source:
+
+Restored AdventureWorks2016 as a source database into SQL Server. 
+
+Data warehouse Design:
+
+- Created a star schema with Fact (FactSales) and Dimension tables (DimCustomer , DimProduct , DimTerritory , DimDate).
+
+ETL Processes: 
+
+- Implemented SSIS packages to extract, transform, and load data to data warehouse.
+- Incorporated Slowly Changing Dimensions (SCD) to track historical changes in dimension attributes.
+
+Data Visualization:
+
+- Integrated Power BI with the data warehouse to create interactive and real-time reports and dashboards.
