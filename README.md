@@ -25,6 +25,6 @@ Data Visualization:
 
 # Tools
 
-SQL Server 
-SSIS
-PowerBI
+- SQL Server 
+- SSIS
+- PowerBI
