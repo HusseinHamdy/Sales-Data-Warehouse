@@ -6,7 +6,7 @@ This centralized repository will allow for comprehensive reporting, trend analys
 
 # Key Features
 
-Source:
+Data Source:
 
 Restored AdventureWorks2016 as a source database into SQL Server. 
 
@@ -22,3 +22,9 @@ ETL Processes:
 Data Visualization:
 
 - Integrated Power BI with the data warehouse to create interactive and real-time reports and dashboards.
+
+# Tools
+
+SQL Server 
+SSIS
+PowerBI
