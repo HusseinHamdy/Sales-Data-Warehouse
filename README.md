@@ -33,3 +33,27 @@ Data Visualization:
 
 ![Diagram](https://github.com/user-attachments/assets/e5fde3b6-ea8d-4467-bf8e-5baf53b75192)
 
+# DimCustomer package
+
+![DimCustomer](https://github.com/user-attachments/assets/2ab373a0-5dc8-4686-9890-deb573a6dd05)
+
+# DimProduct package
+
+![DimProduct](https://github.com/user-attachments/assets/9ce217cb-2efd-4c46-a7a1-fbff24605ab5)
+
+# DimTerritory package
+
+![DimTerritory](https://github.com/user-attachments/assets/aedfc116-a365-439c-965b-3443606e144b)
+
+# DimDate package.
+
+![DimDate](https://github.com/user-attachments/assets/7aa4a825-87ad-42fa-849b-bdd7ebe76205)
+
+# FactSales package
+
+![FactSales](https://github.com/user-attachments/assets/00e43043-7086-42b2-97d8-a844759eb5c8)
+
+# Dashboard
+
+![Dashboard](https://github.com/user-attachments/assets/9d94f544-8619-4789-a2fe-4d9d13bca3f6)
+
