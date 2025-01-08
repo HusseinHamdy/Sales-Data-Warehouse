@@ -55,5 +55,7 @@ Data Visualization:
 
 # Dashboard
 
-![Dashboard](https://github.com/user-attachments/assets/9d94f544-8619-4789-a2fe-4d9d13bca3f6)
+https://github.com/user-attachments/assets/99a23048-c699-4c74-8735-a791d67ec0e7
+
+
 
